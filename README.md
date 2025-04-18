@@ -2,7 +2,6 @@
     Shibatchのリポジトリ
 </h1>
 <h3 align="center">
-静岡大学 工学部 電気電子工学科
 
 プログラミング<span style="font-size: 2em;">ド</span>初心者です．
 
