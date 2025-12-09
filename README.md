@@ -14,13 +14,13 @@
 プログラミング言語:
 </h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,js,ts,py,go" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,js,ts,py,go,dart" />
 </p>
 <h3 align="left">
 フレームワーク:
 </h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=dotnet,materialui,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=dotnet,materialui,nextjs,react,flutter" />
 </p>
 <h3 align="left">
 その他:
