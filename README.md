@@ -28,11 +28,3 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=docker,bash,css,html,latex,visualstudio,vscode,yarn" />
 </p>
-
-<h2 align="left">
-📊ステータス
-</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shibatch28" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibatch28&layout=compact" />
-  </div>
