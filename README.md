@@ -14,7 +14,7 @@
 プログラミング言語:
 </h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,js,ts,py,go,dart" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,js,ts,py,go,dart,rust" />
 </p>
 <h3 align="left">
 フレームワーク:
